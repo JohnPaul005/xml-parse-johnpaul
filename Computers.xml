@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computers>
+  <Laptop id="L1">
+      <Unit>Laptop</Unit>
+      <Type>Gaming Laptop</Type>
+      <Model>Asus Rog Strix G15</Model>
+      <Specification>
+        <Processor>Processor - Ryzen 9 6900HX with 4.9Ghz max boost 8 cores 16 thread</Processor>
+        <Ram> RAM - 16 GB DDR5 4800 Mhz</Ram>
+        <GPU>GPU - NVIDIA GeForce RTX 3080 DDR6 8GB with 1545MHz Boost Clock+50MHz OC</GPU>
+        <Storage> Storage - NVMe M.2 SSD 1 TB</Storage>
+        <Display> Display - 15.6 Inches Scrren with 2560x1440 resolution and 165Hz Refresh rate</Display>
+        <battery> Battery -  90 watt hour up to 12 hours video playback</battery>
+        <OS>Operating System - Windows 11 pro</OS>
+      </Specification> 
+  </Laptop>
+  
+  <desktop id="D1">
+      <Unit>Desktop</Unit>
+      <Type>Gaming/Work Station</Type>
+      <Model>Acer predator PO3-640</Model>
+      <Specification>
+        <Processor>Processor - Intel Core i7-12700F 12 cores 20 threads with 4.90 Ghz Speed</Processor>
+        <Ram> RAM - G_Sill 8x2 GB DDR4 3200Mhz Speed</Ram>
+        <Storage> Storage -  Samsung Evo970 VME M.2 SSD 1 TB</Storage>
+        <Monitor> Monitor Predator_xb273U_NX 26 inches with 2560x1440 and 275Hz Refresh rate</Monitor>
+        <GPU> GPU - Rog_Strix GeForce RTX 4090 OC Edition DDR6X 24Gb with 2460 MHz/Gaming mode up to 2610 MHz</GPU>
+        <PSU> PSU - Rog_Thor 1200 Watts 80plus Platinum</PSU>
+        <OS> Operating System - Windows 11 pro</OS>
+      </Specification>
+  </desktop>
+
+  <desktop id="D2">
+      <Unit>Desktop</Unit>
+      <Type>Work Station</Type>
+      <Model>Aspire C24 1750 (All-in-One) Core i5</Model>
+      <Specification>
+        <Processor> Processor - Intel Core i5-1240P 4.4 Ghz Speed</Processor>
+        <Ram> RAM - 8 GB up to 32 GB DDR4 3200Mhz Speed</Ram>
+        <Storage> Storage - 1 Tb HDD (Storage) VNMe m.2 SSD 256GB (OS)</Storage>
+        <Monitor> Monitor - ACE Monitor with 75hz and 1920x 1080 resolution</Monitor>
+        <GPU> GPU- Built In Graphics Card</GPU>
+        <PSU>PSU- 550 80 plus Bronze </PSU>
+        <OS>Operating System - Windows 11 pro</OS>
+      </Specification>
+  </desktop>
+  
+  <Laptop id="L2">
+      <Unit>Laptop</Unit>
+      <Type>Work Station Laptop</Type>
+      <Model>Lenovo ThinkBook 14 Gen</Model>
+      <Specification>
+        <Processor>Processor - Intel Core i5-1235U Processor (E-cores up to 3.30 GHz P-cores up to 4.40 GHz)</Processor>
+        <Ram>RAM - 8 GB DDR5 4800MHz</Ram>
+        <Storage>Storage - 256 GB SSD M.2</Storage>
+        <Display> Display - 14" WUXGA (1920 x 1200), IPS, Anti-Glare, Non-Touch, 300 nits, Narrow Bezel</Display>
+        <GPU> GPU - Integrated Intel® Iris® Xe Graphics</GPU>
+        <battery> Battery -  4 Cell Li-Polymer 62Wh</battery>
+        <OS>Operating System - Windows 11 pro</OS>
+      </Specification>
+  </Laptop>
+
+  <Laptop id="L3">
+      <Unit>Laptop</Unit>
+      <Type>Gaming Laptop</Type>
+      <Model>Nitro 5 AN515-58-55LG</Model>
+      <Specification>
+        <Processor>Processor - Intel Core i5-Core i5-12500H processor (18 MB Smart Cache, 2.5 GHzPerformance-core with Intel® Turbo Boost Technology 2.0 up to 4.5 GHz)</Processor>
+        <Ram>RAM - 8 GB DDR4 3200MHz</Ram>
+        <Storage>Storage - 512 GB NVMe SSD M.2</Storage>
+        <Display> Display - 5.6″ display with IPS (In-Plane Switching) technology, Full HD 1920 x1080 with 144Hz</Display>
+        <GPU> GPU - NVIDIA® GeForce RTXTM 3050 Ti 1485 – 1695 MHz Boost Clock</GPU>
+        <battery> Battery -  57.5 Wh 4-cell Li-ion battery</battery>
+        <OS>Operating System - Windows 11 Home</OS>
+      </Specification>
+  </Laptop>
+
+
+  <desktop id="D3">
+      <Unit>Desktop</Unit>
+      <Type>Gaming</Type>
+      <Model>Ryzen</Model>
+      <Specification>
+        <Processor> Processor - AMD Ryzen 5 7600x 6 cores 12 threads Up to 5.3GHz</Processor>
+        <Ram> RAM - 2x16 GB DDR5 with 6600Mhz</Ram>
+        <Storage> Storage - Samsung Evo970 VME M.2 SSD 1TB</Storage>
+        <Monitor> Monitor - Asus TUF Gaming VG249Q1A Gaming Monitor 23.8 inch Full HD (1920 x 1080), Overclockable 165Hz(above 144Hz), Extreme Low Motion Blur™, FreeSync™ Premium, 1ms (MPRT), Shadow Boost</Monitor>
+        <GPU> GPU- ROG Strix LC Radeon™ RX 6900 XT is a liquid-cooled leviathan.</GPU>
+        <PSU>PSU- Rog_Thor 1200 Watts 80plus Platinum </PSU>
+        <OS>Operating System - Windows 11 pro</OS>
+      </Specification>
+  </desktop>
+  
+  <desktop id="D4">
+      <Unit>Desktop</Unit>
+      <Type>Work Station</Type>
+      <Model>ASUS Vivo AIO 22 V222</Model>
+      <Specification>
+        <Processor>Processor - Intel® Core™ i5-10210U Processor 1.6 GHz (6M Cache, up to 4.2 GHz, 4 cores)</Processor>
+        <Ram> RAM - 8GB DDR4 SO-DIMM</Ram>
+        <Storage> Storage - 512GB M.2 NVMe™ PCIe® 3.0 SSD, Without HDD</Storage>
+        <Monitor> Monitor - 21.5-inch, FHD (1920 x 1080) 16:9, IPS-level Panel, Anti-glare display, LED Backlit, 250nits, sRGB: 100%, Screen-to-body ratio87 %</Monitor>
+        <GPU> GPU - NVIDIA® GeForce® MX110, 2GB GDDR3</GPU>
+        <PSU> PSU- 550 80 plus Bronze</PSU>
+        <OS>Operating System - Windows 10 Home</OS>
+      </Specification>
+  </desktop>
+</computers>
